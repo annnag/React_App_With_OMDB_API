@@ -2,9 +2,9 @@
 This app allows users to search for movies by entering keywords. It will return the top ten results and more upon requesting.
 ## Teck Stack
 
-React
-Javascript
-Material UI
+* React
+* Javascript
+* Material UI
 
 ### `npm start`
 
